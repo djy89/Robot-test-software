@@ -1,7 +1,7 @@
 # Robot-test-software
 Recoded with python from matlab algrithm
 
-platform: windows 10+anaconda+eric6
+platform: windows 10(x64)+anaconda+eric6
 
 Calibration algrithm and parts of ISO 9283 
 
